@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[883],{429:function(e,t,a){a.r(t);var l=a(7294),n=a(1597),r=a(1633);t.default=function(){return l.createElement(r.Z,{fixFoot:!0},l.createElement("main",{className:"flex flex-col gap-5 "},l.createElement("h1",{className:"text-center"},"it's a dead end"),l.createElement(n.Link,{to:"/",className:"btn w-36 text-center mx-auto"},"back home")))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-d8bf853f85627a7db9cc.js.map

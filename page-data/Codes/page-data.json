@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-codes-js",
+    "path": "/Codes/",
+    "result": {"data":{"allStrapiCodes":{"nodes":[{"content":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum, doloremque delectus. Ut laboriosam quam suscipit sequi optio quo accusantium fuga, a facilis excepturi quaerat doloribus delectus, vero dolorum hic culpa? Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio facere officiis velit adipisci odit expedita,","github":"https://github.com/mmbliv/shopping-react","document":"gfsgfs","id":"Codes_3","title":"code2"},{"content":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum, doloremque delectus. Ut laboriosam quam suscipit sequi optio quo accusantium fuga, a facilis excepturi quaerat doloribus delectus, vero dolorum hic culpa? Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio facere officiis velit adipisci odit expedita,","github":"https://github.com/mmbliv/2048","document":"djfgksdfhj","id":"Codes_2","title":"code1"}]}},"pageContext":{}},
+    "staticQueryHashes": ["1501766088","588823974"]}
