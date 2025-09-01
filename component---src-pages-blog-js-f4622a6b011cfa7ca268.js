@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[7],{3749:function(e,t,l){l.r(t);var r=l(7294),a=l(1597);t.default=function(){var e=(0,a.useStaticQuery)("441946907");return console.log(e),r.createElement("div",null,"Blog")}}}]);
-//# sourceMappingURL=component---src-pages-blog-js-f4622a6b011cfa7ca268.js.map
