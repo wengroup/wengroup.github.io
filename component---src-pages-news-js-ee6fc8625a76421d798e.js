@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[488],{4104:function(l,e,t){t.r(e);t(6540);var r=t(3777),s=t(6952),a=t(4800),o=t(7437);e.default=l=>{let{data:e}=l;const{allMarkdownRemark:{nodes:t}}=e,n=(0,a.L)(t[0].html);return console.log(n),(0,o.Y)(r.A,null,(0,o.Y)(s.l,{news:n,showGrid:!0}))}}}]);
-//# sourceMappingURL=component---src-pages-news-js-ee6fc8625a76421d798e.js.map
