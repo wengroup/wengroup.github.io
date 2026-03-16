@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[125],{3331:function(e,t,a){a.r(t);a(6540);var s=a(4794),l=a(3777),c=a(7437);t.default=()=>(0,c.Y)(l.A,{fixFoot:!0},(0,c.Y)("main",{className:"flex flex-col gap-5 "},(0,c.Y)("h1",{className:"text-center"},"it's a dead end"),(0,c.Y)(s.Link,{to:"/",className:"btn w-36 text-center mx-auto"},"back home")))}}]);
+//# sourceMappingURL=component---src-pages-404-js-a4383e0607d22b5685e9.js.map
