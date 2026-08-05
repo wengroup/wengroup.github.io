@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwengroup_website=self.webpackChunkwengroup_website||[]).push([[125],{3331:function(e,t,a){a.r(t);var n=a(6540),c=a(4794),s=a(2379);t.default=()=>n.createElement(s.A,{fixFoot:!0},n.createElement("main",{className:"flex flex-col gap-5 "},n.createElement("h1",{className:"text-center"},"it's a dead end"),n.createElement(c.Link,{to:"/",className:"btn w-36 text-center mx-auto"},"back home")))}}]);
+//# sourceMappingURL=component---src-pages-404-js-4dfc12b9af060221065d.js.map

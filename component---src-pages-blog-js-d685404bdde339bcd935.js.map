@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-blog-js-d685404bdde339bcd935.js","mappings":"6IAMA,UAJaA,IACJC,EAAAA,cAAA,WAAK,O","sources":["webpack://wengroup-website/./src/pages/Blog.js"],"sourcesContent":["import React from \"react\";\n\nconst Blog = () => {\n  return <div>Blog</div>;\n};\n\nexport default Blog;\n"],"names":["Blog","React"],"sourceRoot":""}

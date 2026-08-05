@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwengroup_website=self.webpackChunkwengroup_website||[]).push([[488],{4104:function(e,n,r){r.r(n);var t=r(6540),a=r(2379),l=r(8204),s=r(2425);n.default=e=>{let{data:n}=e;const{allMarkdownRemark:{nodes:r}}=n,u=(0,s.u)(r[0].rawMarkdownBody);return t.createElement(a.A,null,t.createElement(l.l,{news:u,showGrid:!0}))}}}]);
+//# sourceMappingURL=component---src-pages-news-js-5e41a3249acc95ed5125.js.map

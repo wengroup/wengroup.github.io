@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwengroup_website=self.webpackChunkwengroup_website||[]).push([[711],{967:function(e,u,n){n.r(u);var t=n(6540);u.default=()=>t.createElement("div",null,"Blog")}}]);
+//# sourceMappingURL=component---src-pages-blog-js-d685404bdde339bcd935.js.map
